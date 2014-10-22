@@ -25,7 +25,7 @@ Supported Stores:<br />
 The current version is 0.9.7.1.
 
 ##Tutorial
-For a comprehensive tutorial, Check-out the complete turorial on [master](https://github.com/onepf/OpenIAB-Unity-Plugin/blob/master/unity_plugin/unity_src/Assets/Plugins/OpenIAB_manual.pdf?raw=true) here.
+For a comprehensive tutorial, Check-out the complete tutorial on [master](https://github.com/onepf/OpenIAB-Unity-Plugin/blob/master/unity_plugin/unity_src/Assets/Plugins/OpenIAB_manual.pdf?raw=true) here.
 
 ##Sample project
 You can check out this sample project [here](https://github.com/GrimReio/OpenIAB-sample-game).
